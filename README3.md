@@ -23,7 +23,7 @@ This code deals with how to control our rover, which can be operated in various 
 ## Joystick: {#joystick:}
 
 This code has been made keeping in mind the following joystick/controller for controlling the rover:   
-![][image1]  
+![][ControllerLegend.jpeg]  
 We get the inputs from the joystick from the “/joy” topic, which is established by the joy.launch file.   
 In the code, the various buttons and axes are referenced by the following constants:
 
